@@ -1,5 +1,5 @@
 body {
-background-color :purple;
+background-image :linear-gradient(DarkRed,red);
 
   margin-left: 200px;
 }
@@ -37,3 +37,31 @@ a:visited {
   color: white;
   
   }
+
+ul.par1 {
+  text-decoration: none
+}
+ul.par1 p{
+  color:blue;
+
+}
+
+ul.par2 {
+  text-decoration: none;
+
+  list-style-type: none;
+  color:WhiteSmoke;
+ 
+}
+
+ul.par2 li {
+  
+  margin: 4px ;
+  padding: 5px;
+  border-left: 10px;
+}
+
+.image img{
+  width:80%;
+  height: auto;
+}
