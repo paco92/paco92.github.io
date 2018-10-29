@@ -3,8 +3,7 @@ function greet() {
 	}
 function init(){
 	//Task 2
-	let images =
-document.getElementById("container").getElementsByTagName("img");
+	let images =document.getElementById("container").getElementsByTagName("img");
 	images[1].src = "flower2.png";
 	images[3].src = "flower2.png";
 	//Task 3
